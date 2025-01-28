@@ -44,49 +44,48 @@ The **Video Event Detection System** is an AI-powered application designed to pr
 
 ```
 Video-Event-Detection/
-├── README.md             # Project overview and instructions
-├── .gitignore            # Files and directories to ignore in Git
-├── requirements.txt      # Python dependencies
-├── LICENSE               # License information (if applicable)
-├── frontend/             # Frontend code
-│   ├── public/           # Static files (HTML, CSS, assets)
-│   ├── src/              # Source code
-│   │   ├── components/   # React components
+├── README.md                   # Project overview and instructions
+├── .gitignore                  # Files and directories to ignore in Git
+├── requirements.txt            # Python dependencies
+├── LICENSE                     # License information (if applicable)
+├── frontend/                   # Frontend code
+│   ├── public/                 # Static files (HTML, CSS, assets)
+│   ├── src/                    # Source code
+│   │   ├── components/         # React components
 │   │   │   ├── UploadPage.js
 │   │   │   ├── SearchPage.js
-│   │   ├── styles/       # CSS files
+│   │   ├── styles/             # CSS files
 │   │   ├── App.js
 │   │   ├── index.js
-│   ├── package.json      # Node.js dependencies for the frontend
-│   ├── package-lock.json # Lock file for Node.js dependencies
-├── backend/              # Backend code
-│   ├── app.py            # Main Flask application
-│   ├── video_split.py    # Frame extraction logic
-│   ├── text_generate.py  # Text generation logic
-│   ├── store_captions.py # Captions management
-│   ├── summary.py        # Summarization logic
-│   ├── tfidf.py          # Search functionality
-│   ├── requirements.txt  # Backend Python dependencies
-│   ├── models/           # Pretrained models (if applicable)
-│   ├── uploads/          # Directory for uploaded videos
-│   ├── output_frames/    # Extracted frames
-│   ├── output.json       # Captions and metadata
-├── docs/                 # Documentation
+│   ├── package.json            # Node.js dependencies for the frontend
+│   ├── package-lock.json       # Lock file for Node.js dependencies
+├── backend/                    # Backend code
+│   ├── app.py                  # Main Flask application
+│   ├── video_split.py          # Frame extraction logic
+│   ├── text_generate.py        # Text generation logic
+│   ├── store_captions.py       # Captions management
+│   ├── summary.py              # Summarization logic
+│   ├── tfidf.py                # Search functionality
+│   ├── requirements.txt        # Backend Python dependencies
+│   ├── models/                 # Pretrained models (if applicable)
+│   ├── uploads/                # Directory for uploaded videos
+│   ├── output_frames/          # Extracted frames
+│   ├── output.json             # Captions and metadata
+├── docs/                       # Documentation
 │   ├── Video-Event-Detection.pdf # Software requirements specification
-│   ├── images/           # Screenshots and diagrams for documentation
-│   ├── GanttChart.png
-│   ├── PERTChart.png
-│   ├── UseCaseDiagram.png
-│   ├── SystemDesign.png
-│   ├── ClassDiagram.png
-├── tests/                # Test cases and scripts
+│   ├── images/                 # Screenshots and diagrams for documentation
+│   │   ├── GanttChart.png
+│   │   ├── PERTChart.png
+│   │   ├── UseCaseDiagram.png
+│   │   ├── SystemDesign.png
+│   │   ├── ClassDiagram.png
+├── tests/                      # Test cases and scripts
 │   ├── functional_tests/
 │   │   ├── upload_test.py
 │   │   ├── search_test.py
 │   │   ├── summarization_test.py
 │   ├── performance_tests/
-│   │   ├── response_time_test.py
-│   ├── data/             # Sample input/output data for testing
+│       ├── response_time_test.py
 ```
 
 ## Setup Instructions
