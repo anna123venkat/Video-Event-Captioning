@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+build/
+
+# Python
+__pycache__/
+env/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask
+instance/
+*.db
+
+# Data and Uploads
+data/uploads/
+data/output_frames/
+data/output.json
+
+# Logs and Debug Files
+*.log
+*.out
+*.err
+
+# IDE Specific Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Secrets
+config/secrets.json
