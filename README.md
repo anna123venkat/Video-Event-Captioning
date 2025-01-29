@@ -12,6 +12,7 @@ The **Video Event Detection System** is an AI-powered application designed to pr
   - [Frontend Setup](#frontend-setup)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [References](#references)
 - [Contributors](#contributors)
 
 ## Features
@@ -141,3 +142,21 @@ Video-Event-Detection/
 
 ### Search Videos
 ![Search Videos](docs/images/search_videos.png)
+
+## References
+
+- [Flask Documentation]((https://flask.palletsprojects.com/))
+- [react.js Documentation]((https://react.dev/))
+- [OpenCV Python Docs]((https://docs.opencv.org/))
+- [Hugging Face Transformers]((https://huggingface.co/docs/transformers/index))
+- [Ant Design (UI Library)]((https://ant.design/docs/react/introduce))
+- [TensorFlow API Reference](](https://www.tensorflow.org/api_docs))
+- [PyTorch Documentation]((https://pytorch.org/docs/stable/index.html))
+
+---
+
+## Contributors
+
+- **[Prasanna Venkatesh S](https://github.com/anna123venkat)**
+- **[Timothy Florian](https://github.com/TimothyFlorian)**
+- **[Manoj S](https://github.com/Jonam-2004)**
