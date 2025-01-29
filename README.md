@@ -145,13 +145,13 @@ Video-Event-Detection/
 
 ## References
 
-- [Flask Documentation]((https://flask.palletsprojects.com/))
-- [react.js Documentation]((https://react.dev/))
-- [OpenCV Python Docs]((https://docs.opencv.org/))
-- [Hugging Face Transformers]((https://huggingface.co/docs/transformers/index))
-- [Ant Design (UI Library)]((https://ant.design/docs/react/introduce))
-- [TensorFlow API Reference](](https://www.tensorflow.org/api_docs))
-- [PyTorch Documentation]((https://pytorch.org/docs/stable/index.html))
+- [Flask Documentation](https://flask.palletsprojects.com/)
+- [react.js Documentation](https://react.dev/)
+- [OpenCV Python Docs](https://docs.opencv.org/)
+- [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
+- [Ant Design (UI Library)](https://ant.design/docs/react/introduce)
+- [TensorFlow API Reference](https://www.tensorflow.org/api_docs)
+- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 
 ---
 
