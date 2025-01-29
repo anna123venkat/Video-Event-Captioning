@@ -12,8 +12,7 @@ The **Video Event Detection System** is an AI-powered application designed to pr
   - [Frontend Setup](#frontend-setup)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributors](#contributors)
 
 ## Features
 
